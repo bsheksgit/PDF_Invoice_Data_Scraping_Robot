@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Date",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JcnQNVXXq0683OqaRQ8nXQ",
+  "Reference": "7GoTCJ_nAECuhIkfuq11jg/JcnQNVXXq0683OqaRQ8nXQ",
+  "ParentRef": "7GoTCJ_nAECuhIkfuq11jg/09z4nAVDv0ugNoa7TbhMkA",
+  "Created": "2025-05-03T17:56:31.4423334Z",
+  "Updated": "2025-05-03T17:56:31.4423334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
